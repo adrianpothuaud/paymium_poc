@@ -1,0 +1,1 @@
+# TODO: Setup a Dockerfile so this project is cross-patform and easy to setup and run
