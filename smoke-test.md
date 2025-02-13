@@ -1,1 +1,0 @@
-- Open Paymium landing page: 
